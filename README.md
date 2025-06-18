@@ -89,6 +89,12 @@ python src/train_model.py
 | 🎯 Risk Radar Chart    | Compare SST/ΔSST/probability          | `polarplot`    |
 | 📊 Feature Importance  | Identify top heatwave predictors      | `seaborn`      |
 
+Temperature Anomaly Timeline Plot ![image](https://github.com/user-attachments/assets/953b7678-876b-4857-be32-5aee7ecf3474)
+
+Risk Radar Chart ![image](https://github.com/user-attachments/assets/ef9d578d-71b9-4ff0-a8b8-b34c7f252fc8)
+
+Feature Importance Bar ![image](https://github.com/user-attachments/assets/3716699a-a00e-4010-8621-b2f84dd02713)
+
 ---
 
  🌐 Deployment Options  
