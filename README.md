@@ -12,25 +12,6 @@ Predict coral-reef-damaging heatwaves using SST, pH, and bleaching data
 | Visualization | `matplotlib`, `seaborn`                                                   |
 | Environment | Python 3.8+, Jupyter (optional), VS Code/PyCharm                           |
 
----
-
- 📂 File Structure  
-```bash
-.
-├── 📁 data/                             Raw and processed data
-│   └── 🗄️ realistic_ocean_climate_dataset.csv
-├── 📁 models/                           Saved ML models
-│   └── 🗄️ heatwave_model_v2.pkl
-├── 📁 notebooks/                        Exploratory analysis (optional)
-│   └── 📓 EDA_Model_Training.ipynb
-├── 📁 src/                              Main code
-│   ├── 🐍 main.py                       Prediction CLI tool
-│   ├── 🐍 train_model.py                Model training script
-│   └── 🐍 visualization.py             Plotting functions
-├── 📜 requirements.txt                  Dependencies
-├── 📜 LICENSE                           MIT License
-└── 📜 README.md                         This file
-```
 
 ---
 
