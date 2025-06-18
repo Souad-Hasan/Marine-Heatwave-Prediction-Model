@@ -1,4 +1,13 @@
-🌊 Marine Heatwave Prediction Model  
+🌊 Marine Heatwave Prediction Model
+
+![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue?logo=python&logoColor=white)
+![SciKit-Learn 1.2+](https://img.shields.io/badge/scikit--learn-1.2+-brightgreen?logo=scikit-learn)
+![Pandas 1.5+](https://img.shields.io/badge/pandas-1.5+-blue?logo=pandas&logoColor=white)
+![Matplotlib 3.7+](https://img.shields.io/badge/matplotlib-3.7+-brightgreen?logo=python)
+![License MIT](https://img.shields.io/badge/license-MIT-blue)
+![ML Model](https://img.shields.io/badge/model-RandomForest-green)
+![Accuracy](https://img.shields.io/badge/accuracy-89%25-brightgreen)
+
 Predict coral-reef-damaging heatwaves using SST, pH, and bleaching data  
 
 ---
